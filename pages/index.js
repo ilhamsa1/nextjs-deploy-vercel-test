@@ -17,7 +17,7 @@ export default function Home({ data }) {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started by editing{' '} 2222222
           <code className={styles.code}>pages/index.js</code>
         </p>
 
